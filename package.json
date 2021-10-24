@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homewark_3.1_node_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderAndreevGIT/ajs-homewark_3.1_node_2.git"
+  },
+  "author": "Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderAndreevGIT/ajs-homewark_3.1_node_2/issues"
+  },
+  "homepage": "https://github.com/AlexanderAndreevGIT/ajs-homewark_3.1_node_2#readme",
+  "dependencies": {
+    "@alexanderandreevgit/ajs-homewark_3.1_node": "^1.0.2"
+  }
+}
